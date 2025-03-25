@@ -7,5 +7,5 @@ Proceso consumoCombustible
 	
 	consumoKm <- combustible / Kmrecorrido;
 	
-	Escribir 'El consumo de combustible por kilómetro es de: ', consumoKm, ' lítros.';
+	Escribir 'El consumo de combustible por kilÃ³metro es de: ', consumoKm, ' lÃ­tros.';
 FinProceso
